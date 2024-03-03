@@ -1,0 +1,4 @@
+google_api_python_client==2.120.0
+moviepy==1.0.3
+pytube==15.0.0
+streamlit==1.31.1
